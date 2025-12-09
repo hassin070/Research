@@ -168,7 +168,7 @@ pip install torch numpy scipy scikit-learn matplotlib pandas seaborn
 ## 🤝 Contributors
 
 **Research Team:**
-- Members from North South University, BUET, Daffodil International University, IIT Madras
+- Students from North South University, BUET, KUET
 
 **Advisor:**
 - Faculty, Department of ECE, NSU
