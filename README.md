@@ -214,4 +214,3 @@ If you use this work in your research, please cite our upcoming paper (details t
 
 ---
 
-**Last Updated:** December 2024
